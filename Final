@@ -23,8 +23,18 @@
 
     <style>
          table, th, td {
-            border: 1px solid black;
-         }
+
+          border: 1px solid black;
+
+          border-collapse: collapse;
+
+          }
+
+          th, td {
+
+          padding: 10px;
+
+}
       </style>
   </head>
 
@@ -87,27 +97,32 @@
             <p>
               The Membership may be offered by Snapdeal for different terms and tenures. The key memberships are described as under:
             </p>
+            <table>
+              <tr>
+                <th><b>   Membership Plan  </b></th>
+                <th><b>   Term  </b></th>
+              </tr>
+              <tr>
+                <td>   3 Months   </td>
+                <td>   Quarterly (valid for 90 days from the date of activation)*  </td>
+              </tr>
+              <tr>
+                <td>   1 Month   </td>
+                <td>   Monthly (valid for 30 Days from date of activation)*   </td>
+              </tr>
+            </table>
             <p>
-              You agree that Xmartlabs, in its sole discretion and for any or no reason, may terminate or suspend your account. You agree that any termination of your access to the Service may be without prior notice, and you agree that Xmartlabs will not be liable to you or any third party for such termination. If you paid for your subscription, and Xmartlabs did not terminate or suspend your account due to your breach of these Terms, Xmartlabs will provide a pro-rata refund of unused subscription fees if it terminates or suspends your account in accordance with this paragraph.
+              *For Monthly/Quarterly Membership, a customer's membership will be due for renewal on a 10 days before expiry period. 
+              For e.g. if a customer has activated Monthly Membership on 1st of April month, the membership will come up for renewal on 21st of April month.
+              (The time period for renewal option can be altered as per our discretion) 
+            </p>
+            <p>
+              You may select the membership plan of your choice. The payment method(s) eligible to be used for different membership plans may vary, and Snapdeal reserves the sole right to determine the eligible payment methods for each membership plan. Unless, changed in future, the membership can be bought via ‘Cash on Delivery’ option as well.
             </p>
 
-            <h2 class="section-title">3. Customer Data</h2>
-            <p>
-              Xmartlabs claims no ownership or control over any Customer Data. Except for the license expressly granted by you to Xmartlabs to provide Project Hub, you retain all right, title, and interest in and to Customer Data and you are responsible for protecting those rights and interests, as appropriate. Notwithstanding the foregoing, you grant to Xmartlabs for its use a worldwide, non-exclusive, royalty-free license to aggregate or compile Customer Data with customer data of other users of Project Hub so long as such aggregation or compilation omits any data that would enable the identification of you (“Aggregated Data”). Xmartlabs shall have a worldwide, perpetual, royalty-free license to use, modify, distribute and create derivative works based on such Aggregated Data, and as between you and Xmartlabs, Xmartlabs shall own all compilations of the Aggregated Data, including all reports, statistics or analyses created or derived therefrom.
-            </p>
-            <p>
-              You understand that projects in Project Hub will display Customer Data to you and any collaborators that you designate for that project. You are solely responsible for any collaborators and third-parties (including third-party services) that you allow to view Customer Data and entrust them at your own risk.
-            </p>
-            <p>
-              You are solely responsible for configuring Project Hub to allow appropriate access to your Customer Data. Xmartlabs is not responsible if you fail to configure, or misconfigure, your project and inadvertently allow unauthorized parties to view any Customer Data.
-            </p>
+            
 
-            <h2 class="section-title">4. Ideas and Feedback</h2>
-            <p>
-              As part of your use of Project Hub, you may choose, or we may invite you, to submit comments, feedback or ideas about Project Hub, including but not limited to ideas about improving Project Hub or our other offerings ("Ideas"). You hereby grant Xmartlabs a perpetual, royalty-free, unlimited, worldwide license to use and/or incorporate such Ideas into any Xmartlabs offering (including Project Hub) at any time in Xmartlabs’s sole discretion. Ideas you submit will not be afforded any confidential treatment by Xmartlabs, regardless of whether you request such treatment or otherwise designate Ideas as proprietary or confidential.
-            </p>
-
-            <h3 class="section-title">5. Fees</h3>
+            <h3 class="section-title">3. Fees</h3>
             <p>
               The membership fee is stated for different membership terms, such as a monthly or quarterly membership is stated below:
             </p>
@@ -136,23 +151,24 @@
               The membership fee is non-refundable except as expressly set forth in these Terms. Taxes may apply on either or both of the membership fee and the reduced shipping charges for the members. 
             </p>
 
-            <h3 class="section-title">6. Membership Benefits </h3>
+            <h3 class="section-title">4. Membership Benefits </h3>
             <p>
               Snapdeal shall provide following benefits to the members registered under the VIP Subscription Program:
             </p>
             
-            <p>
-              a. Free Delivery on specifically identified products
-            </p>
-             <p>
-              b. Upto 25% discounts on specifically identified products
-            </p>
+            <ul>
+              <li>
+                Free Delivery on specifically identified products
+              </li>
+              <li>
+                Upto 25% discounts on specifically identified products
+              </li>
+            </ul>
             <p>
               Products eligible for Membership Benefit(s) will be designated as such on their product pages. 
             </p>
-            
 
-            <h3 class="section-title">7. Other Limitations</h3>
+            <h3 class="section-title">5. Other Limitations</h3>
             <ul>
               <li>
                 We reserve the right to accept or refuse membership in our discretion.
@@ -171,27 +187,27 @@
               </li>
             </ul>
 
-            <h3 class="section-title">8. Membership Activation</h2>
+            <h3 class="section-title">6. Membership Activation</h2>
             <p>
               Your paid membership will be activated on successful payment for membership made through the Snapdeal App. For Cash on Delivery Payment option, the membership will be activated on Order Confirmation.
             </p>
 
-            <h3 class="section-title">9. Membership Cancellation/ Upgrade</h3>
+            <h3 class="section-title">7. Membership Cancellation/ Upgrade</h3>
             <p>
               Option of Cancellation/Upgrade of VIP Membership is not provided to the users till the current plan expires. Although, Snapdeal at its sole discretion can upgrade the membership based on the terms applicable during promotional offers.
             </p>
 
-            <h3 class="section-title">10. Agreement Changes</h3>
+            <h3 class="section-title">8. Agreement Changes</h3>
             <p>
               We may in our discretion change these Terms, Terms of Use, Terms of Sale and Privacy Terms, or any aspect of membership, without notice to you. If any change to these terms is found invalid, void, or for any reason unenforceable, that change is severable and does not affect the validity and enforceability of any remaining changes or conditions. YOUR CONTINUED MEMBERSHIP AFTER WE CHANGE THESE TERMS CONSTITUTES YOUR ACCEPTANCE OF THE CHANGES.
             </p>
 
-            <h3 class="section-title">11. Termination by Us</h3>
+            <h3 class="section-title">9. Termination by Us</h3>
             <p>
               We may terminate your membership at our discretion without notice.  We will not give any refund for termination related to conduct that we determine, in our discretion, violates these Terms or any applicable law, involves fraud or misuse of the membership, or is harmful to our interests or another user. Our failure to insist upon or enforce your strict compliance with these Terms will not constitute a waiver of any of our rights.
             </p>
 
-            <h3 class="section-title">12. Limitation of Liability</h3>
+            <h3 class="section-title">10. Limitation of Liability</h3>
             <p>
               IN ADDITION TO OTHER LIMITATIONS AND EXCLUSIONS IN SNAPDEAL’S CONDITION OF USE AND SALE, IN NO EVENT WILL WE OR OUR DIRECTORS, OFFICERS, EMPLOYEES, AGENTS OR OTHER REPRESENTATIVES BE LIABLE FOR ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY OTHER DAMAGES OF ANY KIND, ARISING OUT OF OR RELATED TO YOUR MEMBERSHIP UNDER THIS PROGRAM. OUR TOTAL LIABILITY, WHETHER IN CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, WILL NOT EXCEED THE LAST MEMBERSHIP FEE YOU PAID. THESE EXCLUSIONS AND LIMITATIONS OF LIABILITY WILL APPLY TO THE FULLEST EXTENT PERMITTED BY LAW AND WILL SURVIVE CANCELLATION OR TERMINATION OF YOUR MEMBERSHIP.
             </p>
