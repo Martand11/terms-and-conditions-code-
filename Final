@@ -1,0 +1,208 @@
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Projecthub T&C</title>
+    <meta name="author" content="Xmartlabs" />
+    <meta content="width=device-width, initial-scale=1" name="viewport">
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+
+    <link href="css/custom.css" rel="stylesheet" type="text/css" />
+
+
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Projecthub" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:title" content="Projecthub Terms and Conditions" />
+    <meta property="og:description" content="Manage your Github projects from the palm of your hand." />
+
+    <style>
+         table, th, td {
+            border: 1px solid black;
+         }
+      </style>
+  </head>
+
+  <body id="terms-and-conditions">
+    <header class="header">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col col-xs-10 col-xs-offset-1 col-sm-5 col-sm-offset-1">
+            <a href="/">
+              <img class="img-responsive logo" src="images/projecthub-logo.png" srcset="images/projecthub-logo@2x.png 2x, images/projecthub-logo@3x.png 3x" draggable="false" />
+            </a>
+          </div>
+          <div class="col-xs-12 text-center">
+            <h1 class="title">Snapdeal Subscription/Membership Program (SSP)</h1>
+            <a href="http://itunes.apple.com/us/app/projecthub/id1245190471" target="_blank">
+              <img class="store-button" src="images/appstore-button.png" srcset="images/appstore-button@2x.png 2x, images/appstore-button@3x.png 3x" draggable="false" />
+            </a>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <div class="container-fluid">
+      <div class="row terms-and-conditions-section">
+        <div class="col-xs-12 text-center">
+          <h1 class="title">Terms and Conditions</h1>
+        </div>
+
+        <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+          <div class="content">
+            <p>
+              Welcome to the terms and conditions ("Terms") for Snapdeal Limited’s (Snapdeal/we/us) VIP Subscription Program (“Program”). These Terms are between you and Snapdeal and govern our respective rights and obligations.
+            </p>
+            <p>
+              Please note that your use of the <a href="https://www.snapdeal.com/">https://www.snapdeal.com/</a> website (“Website”) and subscription to membership are also governed by the agreements listed and linked to below, as well as all other applicable terms, conditions, limitations, and requirements on the Website, all of which (as changed over time) are incorporated into these Terms. If you sign up for a membership, you accept these terms, conditions, limitations and requirements.
+            </p>
+          <ul>
+              <li>
+                <a href="https://www.snapdeal.com/page/terms-of-sale">https://www.snapdeal.com/page/terms-of-sale</a>
+              </li>
+              <li>
+                 <a href="https://www.snapdeal.com/offers/terms-of-use">https://www.snapdeal.com/offers/terms-of-use</a>
+              </li>
+              <li>
+                 <a href="https://www.snapdeal.com/page/privacy-policy">https://www.snapdeal.com/page/privacy-policy</a>
+              </li>
+              <li>
+                 <a href="https://www.snapdeal.com/page/TrustPay ">https://www.snapdeal.com/page/TrustPay </a>
+              </li>
+            </ul>
+            
+
+            <h3 class="section-title">1. Promotional Trial Memberships</h3>
+            <p>
+              We may sometimes offer trials or other promotional memberships to certain customers, which are subject to these Terms except as otherwise stated in the relevant promotional offers. Such trial or promotional memberships may be subject to conditions prescribed by Snapdeal. These relevant conditions and the term / tenure for such promotional memberships may be different from the Terms. 
+            </p>
+            
+
+            <h3 class="section-title">2. Membership Term</h3>
+            <p>
+              The Membership may be offered by Snapdeal for different terms and tenures. The key memberships are described as under:
+            </p>
+            <p>
+              You agree that Xmartlabs, in its sole discretion and for any or no reason, may terminate or suspend your account. You agree that any termination of your access to the Service may be without prior notice, and you agree that Xmartlabs will not be liable to you or any third party for such termination. If you paid for your subscription, and Xmartlabs did not terminate or suspend your account due to your breach of these Terms, Xmartlabs will provide a pro-rata refund of unused subscription fees if it terminates or suspends your account in accordance with this paragraph.
+            </p>
+
+            <h2 class="section-title">3. Customer Data</h2>
+            <p>
+              Xmartlabs claims no ownership or control over any Customer Data. Except for the license expressly granted by you to Xmartlabs to provide Project Hub, you retain all right, title, and interest in and to Customer Data and you are responsible for protecting those rights and interests, as appropriate. Notwithstanding the foregoing, you grant to Xmartlabs for its use a worldwide, non-exclusive, royalty-free license to aggregate or compile Customer Data with customer data of other users of Project Hub so long as such aggregation or compilation omits any data that would enable the identification of you (“Aggregated Data”). Xmartlabs shall have a worldwide, perpetual, royalty-free license to use, modify, distribute and create derivative works based on such Aggregated Data, and as between you and Xmartlabs, Xmartlabs shall own all compilations of the Aggregated Data, including all reports, statistics or analyses created or derived therefrom.
+            </p>
+            <p>
+              You understand that projects in Project Hub will display Customer Data to you and any collaborators that you designate for that project. You are solely responsible for any collaborators and third-parties (including third-party services) that you allow to view Customer Data and entrust them at your own risk.
+            </p>
+            <p>
+              You are solely responsible for configuring Project Hub to allow appropriate access to your Customer Data. Xmartlabs is not responsible if you fail to configure, or misconfigure, your project and inadvertently allow unauthorized parties to view any Customer Data.
+            </p>
+
+            <h2 class="section-title">4. Ideas and Feedback</h2>
+            <p>
+              As part of your use of Project Hub, you may choose, or we may invite you, to submit comments, feedback or ideas about Project Hub, including but not limited to ideas about improving Project Hub or our other offerings ("Ideas"). You hereby grant Xmartlabs a perpetual, royalty-free, unlimited, worldwide license to use and/or incorporate such Ideas into any Xmartlabs offering (including Project Hub) at any time in Xmartlabs’s sole discretion. Ideas you submit will not be afforded any confidential treatment by Xmartlabs, regardless of whether you request such treatment or otherwise designate Ideas as proprietary or confidential.
+            </p>
+
+            <h3 class="section-title">5. Fees</h3>
+            <p>
+              The membership fee is stated for different membership terms, such as a monthly or quarterly membership is stated below:
+            </p>
+            <table>
+              <tr>
+                <th><b>   Membership Plan  </b></th>
+                <th><b>   Fee (in INR)  </b></th>
+              </tr>
+              <tr>
+                <td>   1 Month | Monthly   </td>
+                <td>   49*   </td>
+              </tr>
+              <tr>
+                <td>   3 Months | Quarterly   </td>
+                <td>   129*   </td>
+              </tr>
+            </table>
+
+            <p>
+              *Fee can be changed in future. Snapdeal reserves the sole right to determine the eligible fee for each membership plan.
+            </p>
+            <p>
+              The membership activation can be done through successful payment on APP or paying at the time of order delivery.
+            </p>
+            <p>
+              The membership fee is non-refundable except as expressly set forth in these Terms. Taxes may apply on either or both of the membership fee and the reduced shipping charges for the members. 
+            </p>
+
+            <h3 class="section-title">6. Membership Benefits </h3>
+            <p>
+              Snapdeal shall provide following benefits to the members registered under the VIP Subscription Program:
+            </p>
+            
+            <p>
+              a. Free Delivery on specifically identified products
+            </p>
+             <p>
+              b. Upto 25% discounts on specifically identified products
+            </p>
+            <p>
+              Products eligible for Membership Benefit(s) will be designated as such on their product pages. 
+            </p>
+            
+
+            <h3 class="section-title">7. Other Limitations</h3>
+            <ul>
+              <li>
+                We reserve the right to accept or refuse membership in our discretion.
+              </li>
+              <li>
+                We may send you email and other communications related to Snapdeal’s Subscription Program and/or membership (regardless of any settings or preferences related to your Snapdeal account).
+              </li>
+              <li>
+                You may not transfer or assign your membership or any benefits, except as allowed in these Terms.
+              </li>
+              <li>
+                You are not permitted to purchase products for the purpose of resale, rental, or to ship to their customers or potential customers using benefits.
+              </li>
+              <li>
+                From time to time, Snapdeal may choose in its sole discretion to add or remove membership benefits.
+              </li>
+            </ul>
+
+            <h3 class="section-title">8. Membership Activation</h2>
+            <p>
+              Your paid membership will be activated on successful payment for membership made through the Snapdeal App. For Cash on Delivery Payment option, the membership will be activated on Order Confirmation.
+            </p>
+
+            <h3 class="section-title">9. Membership Cancellation/ Upgrade</h3>
+            <p>
+              Option of Cancellation/Upgrade of VIP Membership is not provided to the users till the current plan expires. Although, Snapdeal at its sole discretion can upgrade the membership based on the terms applicable during promotional offers.
+            </p>
+
+            <h3 class="section-title">10. Agreement Changes</h3>
+            <p>
+              We may in our discretion change these Terms, Terms of Use, Terms of Sale and Privacy Terms, or any aspect of membership, without notice to you. If any change to these terms is found invalid, void, or for any reason unenforceable, that change is severable and does not affect the validity and enforceability of any remaining changes or conditions. YOUR CONTINUED MEMBERSHIP AFTER WE CHANGE THESE TERMS CONSTITUTES YOUR ACCEPTANCE OF THE CHANGES.
+            </p>
+
+            <h3 class="section-title">11. Termination by Us</h3>
+            <p>
+              We may terminate your membership at our discretion without notice.  We will not give any refund for termination related to conduct that we determine, in our discretion, violates these Terms or any applicable law, involves fraud or misuse of the membership, or is harmful to our interests or another user. Our failure to insist upon or enforce your strict compliance with these Terms will not constitute a waiver of any of our rights.
+            </p>
+
+            <h3 class="section-title">12. Limitation of Liability</h3>
+            <p>
+              IN ADDITION TO OTHER LIMITATIONS AND EXCLUSIONS IN SNAPDEAL’S CONDITION OF USE AND SALE, IN NO EVENT WILL WE OR OUR DIRECTORS, OFFICERS, EMPLOYEES, AGENTS OR OTHER REPRESENTATIVES BE LIABLE FOR ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY OTHER DAMAGES OF ANY KIND, ARISING OUT OF OR RELATED TO YOUR MEMBERSHIP UNDER THIS PROGRAM. OUR TOTAL LIABILITY, WHETHER IN CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, WILL NOT EXCEED THE LAST MEMBERSHIP FEE YOU PAID. THESE EXCLUSIONS AND LIMITATIONS OF LIABILITY WILL APPLY TO THE FULLEST EXTENT PERMITTED BY LAW AND WILL SURVIVE CANCELLATION OR TERMINATION OF YOUR MEMBERSHIP.
+            </p>
+            
+
+            
+
+          </div>
+        </div>
+      </div>
+    </div>
+    
+  </body>
+</html>
